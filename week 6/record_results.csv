@@ -1,0 +1,6 @@
+label,value,limit,percent,status
+geography,85,100,85.0,OK
+English,72,100,72.0,OK
+Science,95,100,95.0,WARNING
+biology,105,100,105.0,OVER LIMIT
+History,60,100,60.0,OK

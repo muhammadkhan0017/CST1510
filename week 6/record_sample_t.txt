@@ -1,0 +1,6 @@
+label,value,limit
+geography,85,100
+English,72,100
+Science,95,100
+biology,105,100
+History,60,100
